@@ -7,8 +7,8 @@ let [raindrops, whiskers, ...aFewOfMyFavoriteThings] = [
   'warm woolen mittens',
 ];
 console.log(raindrops); // Raindrops on roses
-//ป็นการใช้ array destructuring ซึ่งอ้างอิงค่าตาม index ใน array
+//เป็นการใช้ array destructuring ซึ่งอ้างอิงค่าตาม index ใน array
 console.log(whiskers); //whiskers on kittens
-//ป็นการใช้ array destructuring ซึ่งอ้างอิงค่าตาม index ใน array
+//เป็นการใช้ array destructuring ซึ่งอ้างอิงค่าตาม index ใน array
 console.log(aFewOfMyFavoriteThings); // [ 'Bright copper kettles', 'warm woolen mittens' ]
-//ป็นการใช้  spread operator กับ array destructuring ซึ่งอ้างอิงค่าตาม index ใน array ที่เหลือทั้งหมด
+//เป็นการใช้  spread operator กับ array destructuring ซึ่งอ้างอิงค่าตาม index ใน array ที่เหลือทั้งหมด
